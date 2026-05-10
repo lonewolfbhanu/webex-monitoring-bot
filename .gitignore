@@ -1,6 +1,0 @@
-.env
-screenshots/
-__pycache__/
-*.pyc
-venv/
-*.png
